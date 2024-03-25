@@ -1,4 +1,4 @@
-import numpy as np
+
 import cv2
 capture = cv2.VideoCapture(0)
 classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
