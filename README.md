@@ -7,3 +7,5 @@ pip install opencv-python
 in your terminal
 
 XML File link : https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml
+
+To run the script in command line : python main.py
